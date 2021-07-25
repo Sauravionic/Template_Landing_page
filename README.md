@@ -29,7 +29,7 @@ Users should be able to:
 ![](./screenshot.jpg)
 ![Desktop View of the Final Webpage](images/desktop-design.jpg)
 ![Mobile View of the Final Webpage](images/mobile-design.jpg)
-![Mobile Hamburger Menu](images/mobile-design.jpg)
+![Mobile Hamburger Menu](images/mobile-menu.jpg)
 ![Active States of the Webpage](images/active-states.jpg)
 ### Links
 
