@@ -33,8 +33,8 @@ Users should be able to:
 ![Active States of the Webpage](images/active-states.jpg)
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Sauravionic/Template_Landing_page)
-- Live Site URL: [Add live site URL here](https://sauravionic.github.io/Template_Landing_page/)
+- Solution URL: [Code](https://github.com/Sauravionic/Template_Landing_page)
+- Live Site URL: [Live Site](https://sauravionic.github.io/Template_Landing_page/)
 
 ## About
  A template landing page of an hypotethical company.
